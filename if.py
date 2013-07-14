@@ -1,4 +1,5 @@
 #!/bin/bash/python
+
 number = 15
 guess = int(raw_input('Enter an integer ' ))
 
